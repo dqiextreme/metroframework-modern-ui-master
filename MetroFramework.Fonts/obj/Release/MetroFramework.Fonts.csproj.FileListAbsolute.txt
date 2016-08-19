@@ -1,0 +1,6 @@
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Release\MetroFramework.Fonts.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Release\MetroFramework.Fonts.pdb
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Release\MetroFramework.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Fonts\obj\Release\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Fonts\obj\Release\MetroFramework.Fonts.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Fonts\obj\Release\MetroFramework.Fonts.pdb

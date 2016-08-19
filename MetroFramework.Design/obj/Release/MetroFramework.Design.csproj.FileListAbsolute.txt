@@ -1,0 +1,6 @@
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Design\bin\Release\MetroFramework.Design.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Design\bin\Release\MetroFramework.Design.pdb
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Design\bin\Release\MetroFramework.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Design\obj\Release\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Design\obj\Release\MetroFramework.Design.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework.Design\obj\Release\MetroFramework.Design.pdb

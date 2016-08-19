@@ -1,0 +1,8 @@
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\bin\Release\MetroFramework.dll
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.Controls.MetroGrid.resources
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.Properties.Resources.resources
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\asoftware8\Documents\Visual Studio 2012\Projects\metroframework-modern-ui-master\MetroFramework\obj\Release\MetroFramework.dll
